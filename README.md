@@ -21,7 +21,7 @@
 - Create 3 Components. They should all be at the same level( Siblings )
   - A component that has an input element
   - A component that has a button element
-  - A component that has a text field
+  - A component that has a text field that has the text "N.A"
 - Add css to the button ( Either CSS-in-JS or SASS ). Add padding of 1rem, add margin to the top and make the buttons color red
 
 ### Task 3
