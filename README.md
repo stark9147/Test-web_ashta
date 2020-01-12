@@ -7,7 +7,6 @@
 | [ Task 2 ](#task-2) | React |
 | [ Task 3 ](#task-3) | Request |
 | [ Task 4 ](#task-4) | Server Side |
-| [ Bonus Task ](#bonus-task) | NA |
 
 ### Task 1
 
