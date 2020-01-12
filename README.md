@@ -22,14 +22,14 @@
   - A component that has a button element
   - A component that has a text field that has the text "N.A"
   - 1 checkboxe for "admin" (_if the checkbox is checked then the value should be admin_)
-- Add css to the button ( Either CSS-in-JS or SASS ). Add padding of 1rem, add margin to the top and make the buttons color red
+- Add css to the button ( Either CSS-in-JS or SASS ). Add padding of 1rem, add 2rem margin to the top and make the buttons color red
 
 ### Task 3
 
 - User can only enter a number ( 0,1,2,3,4,5,6,7,8,9)
-- User can enter between 0 and 9
+- User can only enter between 0 and 9
 - Onclick of the button, get the value inputted into the input element and send it as a post request to the nodeJS backend API
-- Display the data received from the in the Text Field
+- Display the data received from the API in the Text Field
 
 
 ### Task 4
