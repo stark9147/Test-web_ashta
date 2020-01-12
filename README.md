@@ -12,8 +12,7 @@
 
 - Fork this repo to your github account
 - Clone the newly forked repository into a local folder
-- Switch branch to development branch and do all changes from there.
-- Once on the development branch, create a new branch from the development branch and name it after your first name.
+- Create a new branch from the master branch and name it after your first name.
   - If your name is "Glenn Fernandes" branch name should be "glenn"
 
 ### Task 2
