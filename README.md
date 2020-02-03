@@ -6,7 +6,7 @@
 | [ Task 1 ](#task-1) | Git |
 | [ Task 2 ](#task-2) | React |
 | [ Task 3 ](#task-3) | Request |
-| [ Task 4 ](#task-4) | Server Side |
+| [ Task 4 ](#task-4) | NodeJS |
 
 ### Task 1
 
