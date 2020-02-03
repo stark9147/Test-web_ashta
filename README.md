@@ -17,6 +17,7 @@
 
 ### Task 2
 
+- Include any React Theme of your choice
 - Create 4 React Components. They should all be at the same level( Siblings )
   - A component that has an input element
   - A component that has a button element
